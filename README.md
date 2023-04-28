@@ -9,7 +9,7 @@ I'm Pedro Ribeiro. I'm a Web Full Stack Developer who is passionate about making
 
 📫 How to reach me:
 
-[![My Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.insgram.com/psycho7k)
+[![My Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/psycho7k)
 [![My Linkedin](https://img.shields.io/badge/--linkedin?label=Linkedin&logo=Linkedin&style=social)](https://www.linkedin.com/in/pedro-de-oliveira-ribeiro-66b53a255/)
 
 <p align="center">

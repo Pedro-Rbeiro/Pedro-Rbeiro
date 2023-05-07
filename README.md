@@ -8,7 +8,6 @@ I'm Pedro Ribeiro. I'm a Web Full Stack Developer who is passionate about making
 🤔 I’m looking for help with supporting my open source projects.
 
  <div align="center">
-  <a href="https://github.com/uFelps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-rbeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rbeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>

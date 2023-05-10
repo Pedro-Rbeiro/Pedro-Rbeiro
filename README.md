@@ -3,6 +3,7 @@
 
 I'm Pedro Ribeiro. I'm a Web Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
+
 👯 I’m looking to collaborate on JavaScript projects.
 
 🤔 I’m looking for help with supporting my open source projects.

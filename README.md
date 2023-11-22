@@ -1,7 +1,7 @@
 <p align="center"> <h1 align="center"> Pedro Ribeiro </h1> </p>
 <p align="center">
 
-I'm Pedro Ribeiro. I'm a Web Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
+Hello! I'm Pedro Ribeiro, welcome to my GitHub profile. I am passionate about technology, making open-source projects, creating technology to elevate people, and building community. I'm looking for my first opportunity in the IT market.
 
 
 👯 I’m looking to collaborate on JavaScript projects.

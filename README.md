@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Ribeiro 🚀</h1>
 
 <p align="center">
-Dev de São Paulo que vive pra codar e criar soluções que impactam de verdade. 💻<br>
+Dev de São Paulo que vive pra criar soluções que impactam de verdade. 💻<br>
 Atualmente trabalhando na área de TI, desenvolvendo projetos focados em tecnologia de ponta e inovação. 🚀
 </p>
 
